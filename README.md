@@ -41,7 +41,7 @@
  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)<br/>
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<br/><br/>
 ### 📫 Also find me at:<br></br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/gustavo-siqueira-a51a1124a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/gustavo-de-assis-siqueira/)
 
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=gustavo-de-assis&count_private=true&show_icons=true" alt="My github stats">
